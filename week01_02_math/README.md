@@ -89,12 +89,10 @@ def goldbach(n):
 
 | 번호 | 문제 | 유형 | 완료 |
 |------|------|------|------|
-| 1 | BOJ 4948 | 베르트라 | ✅ |
-| 2 | BOJ 17103 | 골드바흐 | ✅ |
-| 3 | BOJ 17087 | 숨박꼭질 | ✅ |
-#1 : https://www.acmicpc.net/problem/4948
-#2 : https://www.acmicpc.net/problem/17103
-#3 : https://www.acmicpc.net/problem/17087
+| #1 : https://www.acmicpc.net/problem/4948 | BOJ 4948 | 베르트라 | ✅ |
+| #2 : https://www.acmicpc.net/problem/17103 | BOJ 17103 | 골드바흐 | ✅ |
+| #3 : https://www.acmicpc.net/problem/17087 | BOJ 17087 | 숨박꼭질 | ✅ |
 
 ---
+
 
