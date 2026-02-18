@@ -23,7 +23,7 @@
 
 ---
 
-### 2. [완전탐색/백트래킹] [1244. 최대 상금 (D3)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6ANCCFAYD)
+### 2. [완전탐색/백트래킹] [1244. 최대 상금 (D3)]https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)
 **[문제 내용]**
 숫자판이 주어지고, 정해진 횟수(K)만큼 두 숫자의 위치를 교환해야 합니다. 정해진 횟수를 **반드시 모두 사용**했을 때 얻을 수 있는 수 중 가장 큰 값을 구하십시오.
 - 동일한 위치의 숫자를 여러 번 교환할 수 있습니다.
