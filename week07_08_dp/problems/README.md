@@ -36,7 +36,7 @@
 
 ---
 
-### 3. [동적 계획법] [3307. 최장 증가 부분 수열 (D3)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWB3iyVqqGUDFAV0)
+### 3. [동적 계획법] [3307. 최장 증가 부분 수열 (D3)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)
 **[문제 내용]**
 주어진 수열에서 순서를 유지하면서 크기가 점점 커지는 부분 수열 중 가장 긴 길이를 계산하십시오.
 - 예: `{1, 3, 2, 5, 4, 7}` → LIS는 `{1, 2, 4, 7}`로 길이는 `4`입니다.
